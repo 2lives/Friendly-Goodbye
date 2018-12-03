@@ -1,0 +1,953 @@
+[
+  {
+    "name": "Who the fuck are you anyway",
+    "url": "/anyway/:company/:from",
+    "content": "Who the fuck are you anyway, :company, why are you stirring up so much trouble, and, who pays you? - :from",
+    "fields": [
+      {
+        "name": "Company",
+        "field": "company"
+      },
+      {
+        "name": "From",
+        "field": "from"
+      }
+    ]
+  },
+  {
+    "name": "Asshole",
+    "url": "/asshole/:from",
+    "content": "Fuck you, asshole. - :from",
+    "fields": [
+      {
+        "name": "From",
+        "field": "from"
+      }
+    ]
+  },
+  {
+    "name": "Awesome",
+    "url": "/awesome/:from",
+    "content": "This is Fucking Awesome. - :from",
+    "fields": [
+      {
+        "name": "From",
+        "field": "from"
+      }
+    ]
+  },
+  {
+    "name": "Back the fuck off",
+    "url": "/back/:name/:from",
+    "content": ":name, back the fuck off. - :from",
+    "fields": [
+      {
+        "name": "Name",
+        "field": "name"
+      },
+      {
+        "name": "From",
+        "field": "from"
+      }
+    ]
+  },
+  {
+    "name": "Bag",
+    "url": "/bag/:from",
+    "content": "Eat a bag of fucking dicks. - :from",
+    "fields": [
+      {
+        "name": "From",
+        "field": "from"
+      }
+    ]
+  },
+  {
+    "name": "Ballmer",
+    "url": "/ballmer/:name/:company/:from",
+    "content": "'Fucking :name is a fucking pussy. I'm going to fucking bury that guy, I have done it before, and I will do it again. I'm going to fucking kill :company. - :from",
+    "fields": [
+      {
+        "name": "Name",
+        "field": "name"
+      },
+      {
+        "name": "Company",
+        "field": "company"
+      },
+      {
+        "name": "From",
+        "field": "from"
+      }
+    ]
+  },
+  {
+    "name": "Bday",
+    "url": "/bday/:name/:from",
+    "content": "Happy Fucking Birthday, :name. - :from",
+    "fields": [
+      {
+        "name": "Name",
+        "field": "name"
+      },
+      {
+        "name": "From",
+        "field": "from"
+      }
+    ]
+  },
+  {
+    "name": "Because",
+    "url": "/because/:from",
+    "content": "Why? Because fuck you, that's why. - :from",
+    "fields": [
+      {
+        "name": "From",
+        "field": "from"
+      }
+    ]
+  },
+  {
+    "name": "Blackadder",
+    "url": "/blackadder/:name/:from",
+    "content": ":name, your head is as empty as a eunuch’s underpants. Fuck off! - :from",
+    "fields": [
+      {
+        "name": "Name",
+        "field": "name"
+      },
+      {
+        "name": "From",
+        "field": "from"
+      }
+    ]
+  },
+  {
+    "name": "Bravo Mike",
+    "url": "/bm/:name/:from",
+    "content": "Bravo mike, :name. - :from",
+    "fields": [
+      {
+        "name": "Name",
+        "field": "name"
+      },
+      {
+        "name": "From",
+        "field": "from"
+      }
+    ]
+  },
+  {
+    "name": "Bucket",
+    "url": "/bucket/:from",
+    "content": "Please choke on a bucket of cocks. - :from",
+    "fields": [
+      {
+        "name": "From",
+        "field": "from"
+      }
+    ]
+  },
+  {
+    "name": "Bus",
+    "url": "/bus/:name/:from",
+    "content": "Christ on a bendy-bus, :name, don't be such a fucking faff-arse. - :from",
+    "fields": [
+      {
+        "name": "Name",
+        "field": "name"
+      },
+      {
+        "name": "From",
+        "field": "from"
+      }
+    ]
+  },
+  {
+    "name": "Bye",
+    "url": "/bye/:from",
+    "content": "Fuckity bye! - :from",
+    "fields": [
+      {
+        "name": "From",
+        "field": "from"
+      }
+    ]
+  },
+  {
+    "name": "Can I Use",
+    "url": "/caniuse/:tool/:from",
+    "content": "Can you use :tool? Fuck no! - :from",
+    "fields": [
+      {
+        "name": "Tool",
+        "field": "tool"
+      },
+      {
+        "name": "From",
+        "field": "from"
+      }
+    ]
+  },
+  {
+    "name": "Chainsaw",
+    "url": "/chainsaw/:name/:from",
+    "content": "Fuck me gently with a chainsaw, :name. Do I look like Mother Teresa? - :from",
+    "fields": [
+      {
+        "name": "Name",
+        "field": "name"
+      },
+      {
+        "name": "From",
+        "field": "from"
+      }
+    ]
+  },
+  {
+    "name": "Cocksplat",
+    "url": "/cocksplat/:name/:from",
+    "content": "Fuck off :name, you worthless cocksplat - :from",
+    "fields": [
+      {
+        "name": "Name",
+        "field": "name"
+      },
+      {
+        "name": "From",
+        "field": "from"
+      }
+    ]
+  },
+  {
+    "name": "Cool Story",
+    "url": "/cool/:from",
+    "content": "Cool story, bro. - :from",
+    "fields": [
+      {
+        "name": "From",
+        "field": "from"
+      }
+    ]
+  },
+  {
+    "name": "Cup",
+    "url": "/cup/:from",
+    "content": "How about a nice cup of shut the fuck up? - :from",
+    "fields": [
+      {
+        "name": "From",
+        "field": "from"
+      }
+    ]
+  },
+  {
+    "name": "Dalton",
+    "url": "/dalton/:name/:from",
+    "content": ":name: A fucking problem solving super-hero. - :from",
+    "fields": [
+      {
+        "name": "Name",
+        "field": "name"
+      },
+      {
+        "name": "From",
+        "field": "from"
+      }
+    ]
+  },
+  {
+    "name": "Diabetes",
+    "url": "/diabetes/:from",
+    "content": "I'd love to stop and chat to you but I'd rather have type 2 diabetes. - :from",
+    "fields": [
+      {
+        "name": "From",
+        "field": "from"
+      }
+    ]
+  },
+  {
+    "name": "Donut",
+    "url": "/donut/:name/:from",
+    "content": ":name, go and take a flying fuck at a rolling donut. - :from",
+    "fields": [
+      {
+        "name": "Name",
+        "field": "name"
+      },
+      {
+        "name": "From",
+        "field": "from"
+      }
+    ]
+  },
+  {
+    "name": "Family",
+    "url": "/family/:from",
+    "content": "Fuck you, your whole family, your pets, and your feces. - :from",
+    "fields": [
+      {
+        "name": "From",
+        "field": "from"
+      }
+    ]
+  },
+  {
+    "name": "Fascinating",
+    "url": "/fascinating/:from",
+    "content": "Fascinating story, in what chapter do you shut the fuck up? - :from",
+    "fields": [
+      {
+        "name": "From",
+        "field": "from"
+      }
+    ]
+  },
+  {
+    "name": "Field of Fucks",
+    "url": "/field/:name/:from/:reference",
+    "content": "And :name said unto :from, 'Verily, cast thine eyes upon the field in which I grow my fucks', and :from gave witness unto the field, and saw that it was barren. - :reference",
+    "fields": [
+      {
+        "name": "Name",
+        "field": "name"
+      },
+      {
+        "name": "From",
+        "field": "from"
+      },
+      {
+        "name": "Reference",
+        "field": "reference"
+      }
+    ]
+  },
+  {
+    "name": "Flying",
+    "url": "/flying/:from",
+    "content": "I don't give a flying fuck. - :from",
+    "fields": [
+      {
+        "name": "From",
+        "field": "from"
+      }
+    ]
+  },
+  {
+    "name": "Fuck That Shit",
+    "url": "/fts/:name/:from",
+    "content": "Fuck that shit, :name. - :from",
+    "fields": [
+      {
+        "name": "Name",
+        "field": "name"
+      },
+      {
+        "name": "From",
+        "field": "from"
+      }
+    ]
+  },
+  {
+    "name": "FYYFF",
+    "url": "/fyyff/:from",
+    "content": "Fuck you, you fucking fuck. - :from",
+    "fields": [
+      {
+        "name": "From",
+        "field": "from"
+      }
+    ]
+  },
+  {
+    "name": "Golf Foxtrot Yankee",
+    "url": "/gfy/:name/:from",
+    "content": "Golf foxtrot yankee, :name. - :from",
+    "fields": [
+      {
+        "name": "Name",
+        "field": "name"
+      },
+      {
+        "name": "From",
+        "field": "from"
+      }
+    ]
+  },
+  {
+    "name": "Give",
+    "url": "/give/:from",
+    "content": "I give zero fucks. - :from",
+    "fields": [
+      {
+        "name": "From",
+        "field": "from"
+      }
+    ]
+  },
+  {
+    "name": "Fuck you and the horse you rode in on",
+    "url": "/horse/:from",
+    "content": "Fuck you and the horse you rode in on. - :from",
+    "fields": [
+      {
+        "name": "From",
+        "field": "from"
+      }
+    ]
+  },
+  {
+    "name": "Immensity",
+    "url": "/immensity/:from",
+    "content": "'You can not imagine the immensity of the FUCK I do not give. - :from",
+    "fields": [
+      {
+        "name": "From",
+        "field": "from"
+      }
+    ]
+  },
+  {
+    "name": "Fucking",
+    "url": "/ing/:name/:from",
+    "content": "Fucking fuck off, :name. - :from",
+    "fields": [
+      {
+        "name": "Name",
+        "field": "name"
+      },
+      {
+        "name": "From",
+        "field": "from"
+      }
+    ]
+  },
+  {
+    "name": "Keep",
+    "url": "/keep/:name/:from",
+    "content": "name: Fuck off. And when you get there, fuck off from there too. Then fuck off some more. Keep fucking off until you get back here. Then fuck off again. - :from",
+    "fields": [
+      {
+        "name": "Name",
+        "field": "name"
+      },
+      {
+        "name": "From",
+        "field": "from"
+      }
+    ]
+  },
+  {
+    "name": "Keep Calm",
+    "url": "/keepcalm/:reaction/:from",
+    "content": "Keep the fuck calm and :reaction! - :from",
+    "fields": [
+      {
+        "name": "Reaction",
+        "field": "reaction"
+      },
+      {
+        "name": "From",
+        "field": "from"
+      }
+    ]
+  },
+  {
+    "name": "King",
+    "url": "/king/:name/:from",
+    "content": "Oh fuck off, just really fuck off you total dickface. Christ, :name, you are fucking thick. - :from",
+    "fields": [
+      {
+        "name": "Name",
+        "field": "name"
+      },
+      {
+        "name": "From",
+        "field": "from"
+      }
+    ]
+  },
+  {
+    "name": "Life",
+    "url": "/life/:from",
+    "content": "Fuck my life. - :from",
+    "fields": [
+      {
+        "name": "From",
+        "field": "from"
+      }
+    ]
+  },
+  {
+    "name": "Look",
+    "url": "/look/:name/:from",
+    "content": ":name, do I look like I give a fuck? - :from",
+    "fields": [
+      {
+        "name": "Name",
+        "field": "name"
+      },
+      {
+        "name": "From",
+        "field": "from"
+      }
+    ]
+  },
+  {
+    "name": "Looking",
+    "url": "/looking/:from",
+    "content": "Looking for a fuck to give. - :from",
+    "fields": [
+      {
+        "name": "From",
+        "field": "from"
+      }
+    ]
+  },
+  {
+    "name": "Maybe",
+    "url": "/maybe/:from",
+    "content": "Maybe. Maybe not. Maybe fuck yourself. - :from",
+    "fields": [
+      {
+        "name": "From",
+        "field": "from"
+      }
+    ]
+  },
+  {
+    "name": "Fuck Me",
+    "url": "/me/:from",
+    "content": "Fuck me. - :from",
+    "fields": [
+      {
+        "name": "From",
+        "field": "from"
+      }
+    ]
+  },
+  {
+    "name": "mornin",
+    "url": "/mornin/:from",
+    "content": "Happy fuckin' mornin'! - :from",
+    "fields": [
+      {
+        "name": "From",
+        "field": "from"
+      }
+    ]
+  },
+  {
+    "name": "No",
+    "url": "/no/:from",
+    "content": "No fucks given. - :from",
+    "fields": [
+      {
+        "name": "From",
+        "field": "from"
+      }
+    ]
+  },
+  {
+    "name": "Nugget",
+    "url": "/nugget/:name/:from",
+    "content": "Well :name, aren't you a shining example of a rancid fuck-nugget. - :from",
+    "fields": [
+      {
+        "name": "Name",
+        "field": "name"
+      },
+      {
+        "name": "From",
+        "field": "from"
+      }
+    ]
+  },
+  {
+    "name": "Fuck Off",
+    "url": "/off/:name/:from",
+    "content": "Fuck off, :name. - :from",
+    "fields": [
+      {
+        "name": "Name",
+        "field": "name"
+      },
+      {
+        "name": "From",
+        "field": "from"
+      }
+    ]
+  },
+  {
+    "name": "Fuck Off With",
+    "url": "/off-with/:behavior/:from",
+    "content": "Fuck off with :behavior - :from",
+    "fields": [
+      {
+        "name": "Behavior",
+        "field": "behavior"
+      },
+      {
+        "name": "From",
+        "field": "from"
+      }
+    ]
+  },
+  {
+    "name": "Outside",
+    "url": "/outside/:name/:from",
+    "content": ":name, why don't you go outside and play hide-and-go-fuck-yourself? - :from",
+    "fields": [
+      {
+        "name": "Name",
+        "field": "name"
+      },
+      {
+        "name": "From",
+        "field": "from"
+      }
+    ]
+  },
+  {
+    "name": "This Thing In Particular",
+    "url": "/particular/:thing/:from",
+    "content": "Fuck this :thing in particular. - :from",
+    "fields": [
+      {
+        "name": "Thing",
+        "field": "thing"
+      },
+      {
+        "name": "From",
+        "field": "from"
+      }
+    ]
+  },
+  {
+    "name": "Pink",
+    "url": "/pink/:from",
+    "content": "Well, fuck me pink. - :from",
+    "fields": [
+      {
+        "name": "From",
+        "field": "from"
+      }
+    ]
+  },
+  {
+    "name": "Problem",
+    "url": "/problem/:name/:from",
+    "content": "What the fuck is your problem :name? - :from",
+    "fields": [
+      {
+        "name": "Name",
+        "field": "name"
+      },
+      {
+        "name": "From",
+        "field": "from"
+      }
+    ]
+  },
+  {
+    "name": "Programmer",
+    "url": "/programmer/:from",
+    "content": "Fuck you, I'm a programmer, bitch! - :from",
+    "fields": [
+      {
+        "name": "From",
+        "field": "from"
+      }
+    ]
+  },
+  {
+    "name": "Pulp",
+    "url": "/pulp/:language/:from",
+    "content": ":language, motherfucker, do you speak it? - :from",
+    "fields": [
+      {
+        "name": "Language",
+        "field": "language"
+      },
+      {
+        "name": "From",
+        "field": "from"
+      }
+    ]
+  },
+  {
+    "name": "Question",
+    "url": "/question/:from",
+    "content": "To fuck off, or to fuck off (that is not a question) - :from",
+    "fields": [
+      {
+        "name": "From",
+        "field": "from"
+      }
+    ]
+  },
+  {
+    "name": "Retard",
+    "url": "/retard/:from",
+    "content": "You Fucktard! - :from",
+    "fields": [
+      {
+        "name": "From",
+        "field": "from"
+      }
+    ]
+  },
+  {
+    "name": "That's fucking ridiculous",
+    "url": "/ridiculous/:from",
+    "content": "That's fucking ridiculous - :from",
+    "fields": [
+      {
+        "name": "From",
+        "field": "from"
+      }
+    ]
+  },
+  {
+    "name": "RTFM",
+    "url": "/rtfm/:from",
+    "content": "Read the fucking manual! - :from",
+    "fields": [
+      {
+        "name": "From",
+        "field": "from"
+      }
+    ]
+  },
+  {
+    "name": "sake",
+    "url": "/sake/:from",
+    "content": "For Fuck's sake! - :from",
+    "fields": [
+      {
+        "name": "From",
+        "field": "from"
+      }
+    ]
+  },
+  {
+    "name": "Shakespeare",
+    "url": "/shakespeare/:name/:from",
+    "content": ":name, Thou clay-brained guts, thou knotty-pated fool, thou whoreson obscene greasy tallow-catch! - :from",
+    "fields": [
+      {
+        "name": "Name",
+        "field": "name"
+      },
+      {
+        "name": "From",
+        "field": "from"
+      }
+    ]
+  },
+  {
+    "name": "Fuck This Shit",
+    "url": "/shit/:from",
+    "content": "Fuck this shit! - :from",
+    "fields": [
+      {
+        "name": "From",
+        "field": "from"
+      }
+    ]
+  },
+  {
+    "name": "Shut Up",
+    "url": "/shutup/:name/:from",
+    "content": ":name, shut the fuck up. - :from",
+    "fields": [
+      {
+        "name": "Name",
+        "field": "name"
+      },
+      {
+        "name": "From",
+        "field": "from"
+      }
+    ]
+  },
+  {
+    "name": "Single",
+    "url": "/single/:from",
+    "content": "Not a single fuck was given. - :from",
+    "fields": [
+      {
+        "name": "From",
+        "field": "from"
+      }
+    ]
+  },
+  {
+    "name": "Thanks",
+    "url": "/thanks/:from",
+    "content": "Fuck you very much. - :from",
+    "fields": [
+      {
+        "name": "From",
+        "field": "from"
+      }
+    ]
+  },
+  {
+    "name": "Fuck That",
+    "url": "/that/:from",
+    "content": "Fuck that. - :from",
+    "fields": [
+      {
+        "name": "From",
+        "field": "from"
+      }
+    ]
+  },
+  {
+    "name": "You Think",
+    "url": "/think/:name/:from",
+    "content": ":name, you think I give a fuck? - :from",
+    "fields": [
+      {
+        "name": "Name",
+        "field": "name"
+      },
+      {
+        "name": "From",
+        "field": "from"
+      }
+    ]
+  },
+  {
+    "name": "Thinking",
+    "url": "/thinking/:name/:from",
+    "content": ":name, what the fuck were you actually thinking? - :from",
+    "fields": [
+      {
+        "name": "Name",
+        "field": "name"
+      },
+      {
+        "name": "From",
+        "field": "from"
+      }
+    ]
+  },
+  {
+    "name": "Fuck This",
+    "url": "/this/:from",
+    "content": "Fuck this. - :from",
+    "fields": [
+      {
+        "name": "From",
+        "field": "from"
+      }
+    ]
+  },
+  {
+    "name": "This Guy",
+    "url": "/thumbs/:name/:from",
+    "content": "'Who has two thumbs and doesn't give a fuck? :name. - :from",
+    "fields": [
+      {
+        "name": "From",
+        "field": "from"
+      },
+      {
+        "name": "Name",
+        "field": "name"
+      }
+    ]
+  },
+  {
+    "name": "Too",
+    "url": "/too/:from",
+    "content": "Thanks, fuck you too. - :from",
+    "fields": [
+      {
+        "name": "From",
+        "field": "from"
+      }
+    ]
+  },
+  {
+    "name": "Tucker",
+    "url": "/tucker/:from",
+    "content": "Come the fuck in or fuck the fuck off. - :from",
+    "fields": [
+      {
+        "name": "From",
+        "field": "from"
+      }
+    ]
+  },
+  {
+    "name": "What",
+    "url": "/what/:from",
+    "content": "What the fuck? - :from",
+    "fields": [
+      {
+        "name": "From",
+        "field": "from"
+      }
+    ]
+  },
+  {
+    "name": "Xmas",
+    "url": "/xmas/:name/:from",
+    "content": "Merry Fucking Christmas, you filthy fucking animal, :name. - :from",
+    "fields": [
+      {
+        "name": "Name",
+        "field": "name"
+      },
+      {
+        "name": "From",
+        "field": "from"
+      }
+    ]
+  },
+  {
+    "name": "Yoda",
+    "url": "/yoda/:name/:from",
+    "content": "Fuck off, you must, :name. - :from",
+    "fields": [
+      {
+        "name": "Name",
+        "field": "name"
+      },
+      {
+        "name": "From",
+        "field": "from"
+      }
+    ]
+  },
+  {
+    "name": "Fuck You",
+    "url": "/you/:name/:from",
+    "content": "Fuck you, :name. - :from",
+    "fields": [
+      {
+        "name": "Name",
+        "field": "name"
+      },
+      {
+        "name": "From",
+        "field": "from"
+      }
+    ]
+  },
+  {
+    "name": "Zero",
+    "url": "/zero/:from",
+    "content": "Zero, thats the number of fucks I give. - :from",
+    "fields": [
+      {
+        "name": "From",
+        "field": "from"
+      }
+    ]
+  }
+]
